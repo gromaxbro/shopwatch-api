@@ -1,4 +1,7 @@
 # shopwatch-api
+
+# =============IN DEVELOPMENT=============
+
 An api for scraping product information from amazon,flipcart,croma,etc
 
 
@@ -27,4 +30,3 @@ output
 }
 ```
 
-# ______________IN DEVELOPMENT______________
